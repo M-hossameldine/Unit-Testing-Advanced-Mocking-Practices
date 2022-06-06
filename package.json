@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "http-server -c-1",
-    "test": "vitest --run"
+    "test": "vitest",
+    "testOnce": "vitest --run"
   },
   "keywords": [],
   "author": "",
