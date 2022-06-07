@@ -15,6 +15,9 @@ Simple Form demo to practice on Unit Testing and handling advanced Mocking pract
 
 - Mocking Global Values & Functions - e.g. fetch (in http.js)
 - Mocking Frontend Libraries - e.g. axios
+- Test-specific Mocking Logic
+- Mocking in Selected Places
+- Using Local Mock values
 
 ## Build Setup <a name="build_setup"></a>
 
